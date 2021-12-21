@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Muinat</h1>
 <h3 align="center">I am a passionate fullstack developer from London, who is always eager to learn more!</h3>
 
-- 🔭 I’m currently learning TypeScript!
+- 🔭 I am a recent LeWagon Graduate!
 - 🖼 My final project is [GameOn!](www.gameonhost.co.uk)
-- 🌱 I’m currently learning **Ruby on rails, SQL, Javascript and so many more**
+- 🌱 I’m currently learning **TypeScript and more JavaScript**
 - 📫 How to reach me **ojimoh21@live.co.uk**
 - ⚡ Fun fact **I have 5 sisters and 5 brothers!**
 <h3 align="left">Languages and Tools:</h3>
