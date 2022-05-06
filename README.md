@@ -3,7 +3,7 @@
 
 - 🔭 I am a recent LeWagon Graduate!
 - 🖼 My final project is [GameOn!](www.gameonhost.co.uk)
-- 🌱 I’m currently learning **TypeScript and more JavaScript**
+- 🌱 I’m currently learning **React**
 - 📫 How to reach me **ojimoh21@live.co.uk**
 - ⚡ Fun fact **I have 5 sisters and 5 brothers!**
 <h3 align="left">Languages and Tools:</h3>
